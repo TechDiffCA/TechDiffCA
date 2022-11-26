@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Hi there!👋
+Hi there!👋
 
 We are Technical Difficulties Robotics Team. (Technical D or TD for short.) Our team participates in the First Lego League Challenge in California. Here is a picture of our team: [Image here with names and (maybe) roles]
 
