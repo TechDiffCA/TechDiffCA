@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Technical Difficulties Robotics Team.
+title: Technical Difficulties Robotics Team
 email: techdiffca@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are Technical Difficulties Robotics Team. (Technical D or TD for short.) Our team participates in the First Lego League Challenge in California.
